@@ -10,4 +10,6 @@
 
 </br>
 </br>
+<h2>If you find this helpful, please support us so that we can continue to help you like this.</h2>
 <a style ="left:50%;" href="https://buymeacoffee.com/https://www.buymeacoffee.com/techcoder" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" height="80"  alt="Photo of White Beach in Boracay, Philippines" /></a>
+
