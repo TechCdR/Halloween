@@ -1,7 +1,7 @@
 
 <h3>Responsive Halloween Website </h3>
 
-![](Images/img1.png)<img src="Images/img2.png" width="300" height="200">
+![](Images/img1.png)<img src="Images/img2.png" width="300" height="400">
 <img src="Images/img3.png" width="500" height="400">
 <img src="Images/img4.png">
 
